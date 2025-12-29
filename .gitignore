@@ -1,0 +1,7 @@
+# Credentials - DO NOT COMMIT
+credentials/
+*.pem
+credentials.txt
+.env
+__pycache__/
+*.pyc
