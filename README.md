@@ -234,13 +234,6 @@ The system successfully:
 - **Real Camera Integration** - Connect actual IoT cameras instead of emulated devices
 - **Multi-face Tracking** - Track multiple faces across video frames
 
-## 📚 References
-
-- CSE 546: Cloud Computing - Arizona State University
-- AWS IoT Greengrass Documentation
-- MTCNN: Joint Face Detection and Alignment
-- FaceNet: A Unified Embedding for Face Recognition
-
 ## 👤 Author
 
 **Sakshi Lathi**  
